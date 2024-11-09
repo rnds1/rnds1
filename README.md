@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a Star
 - 👀 I’m interested in shine
 - 🌱 I’m currently learning whats is a code.
-- 💞️ I’m looking to collaborate on everihing
+- 💞️ I’m looking 4 money
 - 📫 How to reach me kaotyckstar@gmail.com
 
 <!---
