@@ -12,7 +12,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# Web Projects
--
-
- ## ![LanVideoSite](https://github.com/rnds1/LocalVideosLan#localvideoslan)
