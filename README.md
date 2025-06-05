@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a Star
-- 👀 I’m interested in shine
+- 👋 Hi, I’m a Programer 
+- 👀 I’m interested in make code better.
 
 
 - 📫 How to reach me kaotyckstar@gmail.com
